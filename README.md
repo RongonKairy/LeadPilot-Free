@@ -136,12 +136,6 @@ LeadPilot-Free/
 │   ├── 3.png
 │   ├── 4.png
 │   └── 5.png
-└── workflows/
-    ├── workflow-1.json
-    ├── workflow-2.json
-    ├── workflow-3.json
-    ├── workflow-4.json
-    └── workflow-5.json
 ```
 
 ---
