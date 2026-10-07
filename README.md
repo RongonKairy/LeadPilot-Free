@@ -33,7 +33,7 @@
 
 **What it does:** [Short description of the workflow]
 
-📥 File: [`Dounlod 1`](workflows/workflow-1.json)
+📥 File: [`Download 1`](workflows/workflow-1.json)
 
 ---
 
@@ -43,7 +43,7 @@
 
 **What it does:** [Short description of the workflow]
 
-📥 File: [`workflows/workflow-2.json`](workflows/workflow-2.json)
+📥 File: [`Download 2`](workflows/workflow-2.json)
 
 ---
 
@@ -53,7 +53,7 @@
 
 **What it does:** [Short description of the workflow]
 
-📥 File: [`workflows/workflow-3.json`](workflows/workflow-3.json)
+📥 File: [`Download 3`](workflows/workflow-3.json)
 
 ---
 
@@ -63,7 +63,7 @@
 
 **What it does:** [Short description of the workflow]
 
-📥 File: [`workflows/workflow-4.json`](workflows/workflow-4.json)
+📥 File: [`Download 4`](workflows/workflow-4.json)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **What it does:** [Short description of the workflow]
 
-📥 File: [`workflows/workflow-5.json`](workflows/workflow-5.json)
+📥 File: [`Download 5`](workflows/workflow-5.json)
 
 ---
 
