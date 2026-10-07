@@ -47,13 +47,13 @@
 
 ---
 
-### 3️⃣ Workflow 3: [Workflow Name]
+### 3️⃣ Workflow 3: Scrape B2B leads from Google Maps to Google Sheets with HasData
 
 ![Workflow 3](assets/3.png)
 
 **What it does:** [Short description of the workflow]
 
-📥 File: [`Download 3`](workflows/workflow-3.json)
+📥 File: [`Download 3`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Scrape.B2B.leads.from.Google.Maps.to.Google.Sheets.with.HasData.json)
 
 ---
 
