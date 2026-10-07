@@ -27,7 +27,7 @@
 
 > ✏️ Edit the titles and descriptions below to match what each of your workflows does.
 
-### 1️⃣ Workflow 1: [Generate daily LinkedIn B2B leads with DataForB2B and LinkUp]
+### 1️⃣ Workflow 1: Generate daily LinkedIn B2B leads with DataForB2B and LinkUp
 
 ![Workflow 1](assets/1.png)
 
