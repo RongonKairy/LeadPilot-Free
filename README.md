@@ -41,7 +41,7 @@
 
 ![Workflow 2](assets/2.png)
 
-**What it does:** [Short description of the workflow]
+
 
 📥 File: [`Download 2`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Enrich.Google.Maps.business.leads.with.Scrapeer.and.Google.Sheets.json)
 
@@ -51,19 +51,19 @@
 
 ![Workflow 3](assets/3.png)
 
-**What it does:** [Short description of the workflow]
+
 
 📥 File: [`Download 3`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Scrape.B2B.leads.from.Google.Maps.to.Google.Sheets.with.HasData.json)
 
 ---
 
-### 4️⃣ Workflow 4: [Workflow Name]
+### 4️⃣ Workflow 4: Automate B2B cold email outreach with Gemini, Gmail and Google Sheets
 
 ![Workflow 4](assets/4.png)
 
-**What it does:** [Short description of the workflow]
 
-📥 File: [`Download 4`](workflows/workflow-4.json)
+
+📥 File: [`Download 4`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Automate.B2B.cold.email.outreach.with.Gemini.Gmail.and.Google.Sheets.json)
 
 ---
 
@@ -71,7 +71,7 @@
 
 ![Workflow 5](assets/5.png)
 
-**What it does:** [Short description of the workflow]
+
 
 📥 File: [`Download 5`](workflows/workflow-5.json)
 
