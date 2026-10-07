@@ -11,22 +11,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [Features](#-features)
-- [Workflows Included](#-workflows-included)
-- [Requirements](#-requirements)
-- [Installation](#-installation)
-- [How to Import a Workflow](#-how-to-import-a-workflow)
-- [Configuration](#-configuration)
-- [Project Structure](#-project-structure)
-- [Customization](#-customization)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
-
----
 
 ## ✨ Features
 
