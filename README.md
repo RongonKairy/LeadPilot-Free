@@ -67,13 +67,13 @@
 
 ---
 
-### 5️⃣ Workflow 5: [Workflow Name]
+### 5️⃣ Workflow 5: Trigger HVAC upsell campaigns from weather data and handle bookings with GoHighLevel, WhatsApp, WeatherAPI and Gemini
 
 ![Workflow 5](assets/5.png)
 
 
 
-📥 File: [`Download 5`](workflows/workflow-5.json)
+📥 File: [`Download 5`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Trigger.HVAC.upsell.campaigns.from.weather.data.and.handle.bookings.with.GoHighLevel.WhatsApp.WeatherAPI.and.Gemini.json)
 
 ---
 
