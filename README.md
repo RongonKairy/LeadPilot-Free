@@ -175,7 +175,7 @@ Found a bug or have an idea? [Open an issue](https://github.com/rongonkairy/Lead
 
 ## 🎯 LeadPilot-Free Skill
 
-![Workflow 5](assets/5.png)
+![Workflow 5](assets/poster.png)
 
 Find leads with AI directly inside Claude. The **LeadPilot-Free Skill** searches Google, Facebook, Instagram, LinkedIn, and country business directories to collect names, emails, phone numbers, and locations.
 
