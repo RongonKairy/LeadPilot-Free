@@ -175,7 +175,9 @@ Found a bug or have an idea? [Open an issue](https://github.com/rongonkairy/Lead
 
 ## 🖼 Poster
 
-  <img src="LeadPilot-Free Poster](https://raw.githubusercontent.com/RongonKairy/LeadPilot-Free/main/assets/poster.png" alt="LeadPilot-Free Poster" width="700">
+  <p align="center">
+  <img src="LeadPilot-Free Poster https://raw.githubusercontent.com/RongonKairy/LeadPilot-Free/main/assets/poster.png" alt="LeadPilot-Free Poster" width="700">
+</p>
 
 ---
 
