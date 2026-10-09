@@ -129,13 +129,13 @@ After importing, set up each workflow:
 LeadPilot-Free/
 ├── README.md
 ├── LICENSE
-└── assets/
-    ├── 1.png
-    ├── 2.png
-    ├── 3.png
-    ├── 4.png
-    ├── 5.png
-    └── poster.png
+├── assets/
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   ├── 5.png
+│   └── poster.png
 ```
 
 ---
@@ -173,19 +173,13 @@ Found a bug or have an idea? [Open an issue](https://github.com/rongonkairy/Lead
 
 ---
 
-## 🖼 Poster
+## 🎯 LeadPilot-Free Skill
 
-<p align="center">
-  <img src="assets/poster.png" alt="LeadPilot-Free Poster" width="100%">
-</p>
+[![LeadPilot-Free Poster](assets/poster.png)](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/Skill.md)
 
----
+Find leads with AI directly inside Claude. The **LeadPilot-Free Skill** searches Google, Facebook, Instagram, LinkedIn, and country business directories to collect names, emails, phone numbers, and locations.
 
-## 🤖 LeadPilot-Free Claude Skill
-
-Find business leads with AI from Google, Facebook, Instagram, LinkedIn, and country business directories (USA, Germany, Dubai, Canada, Australia, Philippines, UK). Just give your location, niche, and service, and get names, emails, phone numbers, and locations.
-
-📥 **Download the Skill:** [**LeadPilot-Free Skill.md**](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/Skill.md)
+📥 **Download:** [LeadPilot-Free Skill.md](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/Skill.md)
 
 ---
 
