@@ -129,12 +129,13 @@ After importing, set up each workflow:
 LeadPilot-Free/
 ├── README.md
 ├── LICENSE
-├── assets/
-│   ├── 1.png
-│   ├── 2.png
-│   ├── 3.png
-│   ├── 4.png
-│   └── 5.png
+└── assets/
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
+    ├── 4.png
+    ├── 5.png
+    └── poster.png
 ```
 
 ---
@@ -169,6 +170,20 @@ Contributions are welcome!
 4. Push to your branch and open a Pull Request
 
 Found a bug or have an idea? [Open an issue](https://github.com/rongonkairy/LeadPilot-Free/issues).
+
+---
+
+## 🖼 Poster
+
+![LeadPilot-Free Poster](assets/poster.png)
+
+---
+
+## 🤖 LeadPilot-Free Claude Skill
+
+Find business leads with AI from Google, Facebook, Instagram, LinkedIn, and country business directories (USA, Germany, Dubai, Canada, Australia, Philippines, UK). Just give your location, niche, and service, and get names, emails, phone numbers, and locations.
+
+📥 **Download the Skill:** [**LeadPilot-Free Skill.md**](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/Skill.md)
 
 ---
 
