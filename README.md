@@ -31,7 +31,6 @@
 
 ![Workflow 1](assets/1.png)
 
-**What it does:** [Short description of the workflow]
 
 📥 File: [`Download 1`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Generate.daily.LinkedIn.B2B.leads.with.DataForB2B.and.LinkUp.json)
 
