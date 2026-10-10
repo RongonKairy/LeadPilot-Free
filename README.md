@@ -77,9 +77,17 @@
 
 
 ---
-### 5️⃣ Workflow 5: Trigger HVAC upsell campaigns from weather data and handle bookings with GoHighLevel, WhatsApp, WeatherAPI and Gemini
+### 6️⃣ Workflow 6: Our Free N8N Automation V1
 
 ![Workflow 6](assets/A1.png)
+
+📥 File: [`Download 6`](https://github.com/RongonKairy/LeadPilot-Free/releases#release-LeadPilot-Free:~:text=LeadPilot%2DFree.Lead.Generation.v1.json)
+
+### 7️⃣ Workflow 7: Our Free N8N Automation V2
+
+![Workflow 6](assets/A2.png)
+
+📥 File: [`Download 7`](https://github.com/RongonKairy/LeadPilot-Free/releases#release-LeadPilot-Free:~:text=LeadPilot%2DFree.Lead.Generation.v2.json)
 ---
 ## 📋 Requirements
 
