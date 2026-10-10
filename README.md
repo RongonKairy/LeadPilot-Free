@@ -74,8 +74,12 @@
 
 📥 File: [`Download 5`](https://github.com/RongonKairy/LeadPilot-Free/releases/tag/LeadPilot-Free#:~:text=Trigger.HVAC.upsell.campaigns.from.weather.data.and.handle.bookings.with.GoHighLevel.WhatsApp.WeatherAPI.and.Gemini.json)
 
----
+![Workflow 6](assets/Screenshot 2026-10-10 140859.png)
 
+---
+### 5️⃣ Workflow 5: Trigger HVAC upsell campaigns from weather data and handle bookings with GoHighLevel, WhatsApp, WeatherAPI and Gemini
+
+---
 ## 📋 Requirements
 
 - An [n8n](https://n8n.io) account (Cloud) or a self-hosted n8n instance
